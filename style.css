@@ -55,7 +55,7 @@
 }
 
 #left-side{
-    width: 340px;
+    width: 350px;
     padding: 5px;
 }
 #left-side .summary{
@@ -144,7 +144,7 @@
 }
 h4{
     padding-top: 10px;
-    color: #c4a079;
+    color: #573800
 }
 span{
     float: right;
